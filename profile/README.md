@@ -1,3 +1,3 @@
-# Panduza Organisation
+# Panduza
 
-https://panduza-doc.readthedocs.io/en/latest/
+Want to try ? Start with the [documentation](https://panduza.github.io/panduza-doc/)
